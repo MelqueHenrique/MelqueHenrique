@@ -12,7 +12,7 @@
   <img align="center" alt="ph" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">
   <img align="center" alt="ph" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
 <br>-->
-
+![snake gif](https://github.com/MelqueHenrique/MelqueHenrique/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **MelqueHenrique/MelqueHenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
