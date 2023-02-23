@@ -1,10 +1,15 @@
 ### Hi there 👋
 
-<div align="center">
+<div>
+<a href="https://github.com/MelqueHenrique">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MelqueHenrique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelqueHenrique&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+<!--<div align="center">
   <a href="https://github.com/MelqueHenrique">
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=MelqueHenrique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelqueHenrique&layout=tokyonight&langs_count=7&theme=tokyonight"/>
-</div>
+</div>-->
 
 <!--<div style="display: inline_block" align="center" ><br>
 <img align="center" alt="ph" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg">
