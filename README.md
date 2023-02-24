@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="100">
+<img src="https://media.tenor.com/GOj9ZF_-ZOcAAAAC/cat.gif" width="100">
 
 - 🔭 I’m currently working as a PHP Backend Developer;
 - 🌱 I’m currently learning Java/kotlin with a focus on being a native android developer;
