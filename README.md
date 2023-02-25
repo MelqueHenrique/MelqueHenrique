@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Melque! 👋
 
 <img src="https://media.tenor.com/GOj9ZF_-ZOcAAAAC/cat.gif" width="100">
 
