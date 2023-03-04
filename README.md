@@ -18,4 +18,3 @@
 
 
 ![Snake animation](https://github.com/MelqueHenrique/MelqueHenrique/blob/output/github-contribution-grid-snake.svg)
-
