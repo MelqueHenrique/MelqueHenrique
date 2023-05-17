@@ -5,7 +5,7 @@
 - 🔭 I’m currently working as a PHP Backend Developer;
 - 🌱 I’m currently learning Java/kotlin with a focus on being a native android developer;
 - 👯 I’m looking to collaborate on mobile app projects;
-- 📫 How to reach me: melque_hl@hotmail.com;
+- 📫 How to reach me: melquehl@gmail.com;
 - 🏡 Live in Brazil;
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
