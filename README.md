@@ -9,9 +9,20 @@
 - 🏡 Live in Brazil; 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MelqueHenrique&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelqueHenrique&layout=compact&theme=dark)
-![Snake animation](https://github.com/MelqueHenrique/MelqueHenrique/blob/output/github-contribution-grid-snake.svg)
+## 🚀 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MelqueHenrique&show_icons=true&count_private=true&hide=prs&theme=dark)
+
+## 🔥 Linguagens mais usadas
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MelqueHenrique&layout=compact&count_private=true&theme=dark)
+
+## 🐍 Contribuições do GitHub
+
+![Contribuições](https://github-readme-calendar.vercel.app/api?username=MelqueHenrique&theme=radical)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MelqueHenrique&show_icons=true&count_private=true&hide=prs&theme=dark&access_token=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)
+
 
 <div>
 <a href="https://github.com/MelqueHenrique">
