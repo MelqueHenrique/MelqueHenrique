@@ -21,7 +21,6 @@
 
 ![Contribuições](https://github-readme-calendar.vercel.app/api?username=MelqueHenrique&theme=radical)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MelqueHenrique&show_icons=true&count_private=true&hide=prs&theme=dark&access_token=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)
 
 
 <div>
