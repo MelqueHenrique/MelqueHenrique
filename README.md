@@ -9,6 +9,10 @@
 - 🏡 Live in Brazil; 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MelqueHenrique&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelqueHenrique&layout=compact&theme=dark)
+![Snake animation](https://github.com/MelqueHenrique/MelqueHenrique/blob/output/github-contribution-grid-snake.svg)
+
 <div>
 <a href="https://github.com/MelqueHenrique">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MelqueHenrique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
