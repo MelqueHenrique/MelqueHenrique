@@ -1,16 +1,16 @@
-### Olá, eu sou o Melque! 👋
+### Hi there, my name is Melque! 👋
 
 <img src="https://media.tenor.com/GOj9ZF_-ZOcAAAAC/cat.gif" width="100">
 
-- 🔭 Atualmente trabalho como **Desenvolvedor Backend PHP**.
-- 🌱 Estou aprendendo **Java/Kotlin** com foco em desenvolvimento nativo para Android.
-- 👯 Procuro colaborar em projetos de aplicativos móveis.
-- 📫 Fale comigo pelo e-mail: **melquehl@gmail.com**.
-- 🏡 Moro no **Brasil**.
+- 🔭 I’m currently working as a **Network Infrastructure Analyst**.
+- 🌱 I’m currently learning **Java/Kotlin** with a focus on being a native Android developer.
+- 👯 I’m looking to collaborate on mobile app projects.
+- 📫 How to reach me: **melquehl@gmail.com**.
+- 🏡 Live in **Brazil**.
 
 ---
 
-### 💻 Tech Stack & Ferramentas
+### 💻 Tech Stack & Tools
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -21,7 +21,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/MelqueHenrique">
@@ -31,7 +31,7 @@
 
 ---
 
-### 🐍 Minhas Contribuições
+### 🐍 My Contributions
 
 <div align="center">
   <picture>
