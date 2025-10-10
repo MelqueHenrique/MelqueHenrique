@@ -40,3 +40,4 @@
     <img alt="snake animation" src="dist/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
