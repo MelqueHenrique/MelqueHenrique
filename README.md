@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Java/Kotlin** with a focus on being a native Android developer.
 - 👯 I’m looking to collaborate on mobile app projects.
 - 📫 How to reach me: **melquehl@gmail.com**.
-- 🏡 Live in **Brazil**. 
+- 🏡 Live in **Brazil**.
 
 ---
  
