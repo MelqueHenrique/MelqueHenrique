@@ -20,3 +20,12 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/MelqueHenrique">
+    <img height="180" alt="Melque Henrique's GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=MelqueHenrique&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true" />
+    <img height="180" alt="Most used languages in Melque Henrique's public repositories" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MelqueHenrique&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight" />
+  </a>
+</div>
